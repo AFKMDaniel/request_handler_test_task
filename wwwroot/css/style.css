@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #508bfc;
+}
+
+.form-wrapper {
+    background-color: white;
+    border-radius: 1rem;
+    padding: 2.5rem;
+}
+
+form {
+    width: 100%;
+}
+
+.form-line {
+    margin: .8rem 0 .8rem 0;
+}
+
+.btn-line {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    display: block;
+}
